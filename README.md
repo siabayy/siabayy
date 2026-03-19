@@ -1,5 +1,5 @@
 
-![siabayy](img/header%20sosmed.png) 
+![siabayy](img/header-sosmed.png)
 
 ### Hi, I'm Muhamad Bayu Khayatullah
 
