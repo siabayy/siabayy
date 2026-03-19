@@ -1,4 +1,4 @@
-![siabayy](img/header%20sosmed.png)
+![siabayy](heade-sosmed.png)
 
 ### Hi, I'm Muhamad Bayu Khayatullah
 
