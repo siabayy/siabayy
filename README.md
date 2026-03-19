@@ -37,3 +37,4 @@ and any way, right now I am doing a Data Specialist internship Season 10 at [**@
 
 ### 📂 Sorotan Portofolio Proyek
 Berikut adalah beberapa proyek yang merepresentasikan keterampilan saya di bidang data dan pengembangan sistem:
+### 1. [Analisis Efektivitas Latihan Fisik terhadap Pembakaran Energi](#) *(https://github.com/siabayy/Analisis-Efektivitas-Latihan-Fisik-terhadap-Pembakaran-Energi)* 
