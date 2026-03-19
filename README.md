@@ -1,4 +1,6 @@
-![siabayy](heade-sosmed.png)
+<p align="center">
+  <img src="header sosmed.png" alt="siabayy header" style="max-width:100%; height:auto;" />
+</p>
 
 ### Hi, I'm Muhamad Bayu Khayatullah
 
